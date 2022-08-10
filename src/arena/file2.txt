@@ -1,0 +1,288 @@
+associative
+char
+character
+2d
+3d
+multidimensional
+array = arrays
+arrays
+index = indices
+union
+enum
+struct
+typedef
+input
+output
+stream = streams
+Command
+line
+argument = arguments
+argc
+argv
+manipulate = manipulation
+manipulation
+field
+bit = bitwise 
+left
+right
+bit
+shift = shifts
+showbits
+allocate = allocation
+calloc
+malloc
+realloc
+memory
+free
+abort
+abs
+acos
+asctime
+asin
+assert
+atan
+atan2
+atexit
+atof
+atoi
+atol
+ceil
+clearerr
+clock
+cos
+cosh
+ctime
+div
+diftime
+exir
+exp
+fabs
+fclose
+feof
+ferror
+fflush
+fgetc
+fgetpos
+fgets
+floor
+fmod
+fopen
+fprintf
+fputc
+fputs
+fread
+free
+freopen
+frexp
+fscanf
+fseek
+fsetpos
+ftell
+fwrite
+gmtime
+gets
+getenv
+getc
+getchar
+isalpha
+isalnum
+iscntrl
+isdigit
+isgraph
+islower
+isprint
+ispunct
+isspace
+isupper
+isxdigit
+labs
+ledxp
+ldiv
+localtime
+logical operator
+log10
+longjmp
+malloc
+method = methods
+mergesort
+pointer = pointers
+member
+function = functions
+malloc
+memcpy
+memcmp
+memmove
+memchr
+memset
+mktime
+modf
+perror
+pow
+puts
+putc
+putchar
+printf
+raise
+rand
+realloc
+remove
+rename
+rewind
+round
+qsort
+strcpy
+strcat
+strlen
+strcmp
+strchr
+strstr
+setbuf
+setjmp
+setlocale
+setvbuf
+signal
+sin
+sinh
+sprintf
+sqrt
+srand
+sscanf
+strcoll
+strcpn
+strerror
+strftime
+strncat
+strncmp
+strpbrk
+strrchr
+strspn
+strstr
+strtod
+strtok
+strtol
+insertion
+selection
+heap
+radix
+mearge
+bubble
+bucket
+sort = sorting
+search = searching
+basic = basics
+keyword = keywords
+literal = literals
+variable = variables
+compile = compilation
+execute = execution
+execution
+declaration = declarations
+define = definition definitions
+definition = definitions
+type = types
+conversion = conversions
+promotion = promotions
+case = cases
+sensitive
+comment = comments
+alphanumeric
+identifier
+explicit
+implicit
+constant = constants
+statement = statements
+syntax
+record = records
+static
+dynamic
+binding
+example = examples
+conditional
+arithmetic
+binary
+unary
+ternary
+relational
+scope
+resolution
+logical
+misc
+assignment
+overloading
+expression
+dot
+operator = operators
+Standard
+library
+header 
+file = files
+assert
+complex
+stdio
+setjmp
+ctype
+math
+errno
+stdlib
+fenv
+conio
+stdbool
+locale
+limits
+signal
+stdarg
+float
+stdalign
+stdatomic
+stddef
+stdint
+inttypes
+iso646
+stdnoreturn
+string
+tgmath
+threads
+uchar
+wchar
+wctype
+headerfile
+Advanced
+tree
+circular
+queue
+stack
+singly
+circular
+doubly
+linked
+list = lists
+graph
+balanced
+height
+balanced
+binary
+search
+tree
+dequeue
+bidirectional
+container
+data
+structure = structures structured
+dictionary
+priority
+queue
+multiset
+multimap
+map = maps
+instruction = instructions
+set
+hash = hashing
+table = tables
+linking
+binding
+runtime
+syntax
+semantic
+time
+logical
+error = errors
